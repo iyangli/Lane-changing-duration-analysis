@@ -18,6 +18,12 @@ Guiding the modeling of the execution phase of lane-changing in traffic simulati
 
 # 3 Results
 
+![1](https://user-images.githubusercontent.com/102028937/159254544-f9c432d2-010f-4a77-a383-71a9a12efd06.png)
+![20210723,speed-dhw-thw-speed distribution](https://user-images.githubusercontent.com/102028937/159254591-b9f73f4c-cea2-4c24-a84c-e4ae4e7e2e61.png)
+![univariate comparison(trucks and vehicles)-2](https://user-images.githubusercontent.com/102028937/159254603-06344af8-11bb-4263-b7ca-6aa042c0f133.png)
+![2](https://user-images.githubusercontent.com/102028937/159254614-bc6900b4-2e50-495c-a98e-3b93df2834a1.png)
+![3](https://user-images.githubusercontent.com/102028937/159254624-305bb959-13dc-4a92-be92-44a9bb24ffee.png)
+
 
 
 
